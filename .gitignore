@@ -54,4 +54,4 @@ dkms.conf
 # others
 *.DS_Sto*
 
-*archive/*
+archive*
